@@ -14,8 +14,9 @@ Aplicativo de calculadora de IMC simples.
  - Dart
 
 
-## Telas:  
-![1]
+## Tela:  
+
+![calculadora](https://user-images.githubusercontent.com/87239861/134245031-b2b7a4a0-1e58-467b-b0b4-5aeb87db80e4.png)
 
   
  ---
